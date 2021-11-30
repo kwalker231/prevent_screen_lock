@@ -1,4 +1,4 @@
-# prevent screen lock
+# prevent screen lock <br />
 ##Description: python script that moves mouse randomly to prevent screen lock <br />
 ###Author: kwalker231 <br />
 
