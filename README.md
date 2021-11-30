@@ -1,6 +1,6 @@
 # prevent screen lock <br />
-##Description: python script that moves mouse randomly to prevent screen lock <br />
-###Author: kwalker231 <br />
+**Description: python script that moves mouse randomly to prevent screen lock** <br />
+**Author: kwalker231** <br />
 
 runable program in "executable" folder <br />
 macos: "no_screen_lock" <br />
