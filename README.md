@@ -6,4 +6,4 @@ press 'q' to stop
 
 runable program in "executable" folder <br />
 macos: "no_screen_lockAPP" <br />
-windows: "no_screen_lock_win" <br />
+windows: "no_screen_lock.exe" <br />
