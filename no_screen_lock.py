@@ -6,6 +6,8 @@ import keyboard
 from tkinter import *
 from tkinter import ttk
 
+pyautogui.FAILSAFE = False
+
 class noLockGUI(tk.Tk):
     def __init__(self, *args, **kwargs):
         super(noLockGUI, self).__init__()
